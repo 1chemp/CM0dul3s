@@ -2,6 +2,8 @@
 
 +--- ./reversed\_part\_of\_str/first\_task.c ---+
 
+<img src="../images/example.jpg"></img>
+
 <b>ru:</b> "Перевернуть" в строке все слова. Удалить слова – палинандромы.<br>
 Реализовано при помощи алгоритма:<br>
 char** algorithmSplicesInsert(char* all_str, short* all_len, short* spaces_ind, short* words_count);
