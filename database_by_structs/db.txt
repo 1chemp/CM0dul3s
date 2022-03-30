@@ -1,0 +1,15 @@
++---- Database of students ----+
+
+[*] Index of student: 2
+[*] Name of student: Andreev
+[*] Date of receipt: 2022-3-2
+[*]Date of expulsion: 2026-3-2
+
+
+[*] Index of student: 1
+[*] Name of student: Sergeev
+[*] Date of receipt: 2018-3-2
+[*]Date of expulsion: 2022-3-2
+
+
++---- FINISH OF DATABASE ----+
