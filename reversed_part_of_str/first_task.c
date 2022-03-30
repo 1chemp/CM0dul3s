@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #define SIZE 1024
 #define MAXCOL 64
 
