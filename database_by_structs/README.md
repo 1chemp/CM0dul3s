@@ -36,7 +36,8 @@ No. 9: Surname, date of receipt, date of expulsion.
 <br>
 					Enjoy
 +----------------------------------------------+
-
-<b>Example:</b>
-<img src="../images/image3_1.jpg"></img>
-<img src="../images/image3_2.jpg"></img>
+<br>
+<b>Example:</b><br>
+<img src="../images/image3_1.jpg"></img><br>
+<img src="../images/image3_2.jpg"></img><br>
+<br>
