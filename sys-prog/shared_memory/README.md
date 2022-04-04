@@ -1,4 +1,4 @@
-#SYS-PROG<br>
+# SYS-PROG<br>
 +--- ./sys-prog/shared\_memory/\*.c ---+<br>
 <br>
 <b>ru:</b> Две программы, использующие общую разделяемую память.<br>
