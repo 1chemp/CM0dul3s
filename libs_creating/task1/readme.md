@@ -8,7 +8,7 @@
 3. ./result<br>
 4. make finish\_dynamic<br>
 5. ./result<br>
-<b>If not result run script.sh</b>
+<b>If it not works (result) - run script.sh</b>
 <br>
 6. make main<br>
 ./main sqr<br>
