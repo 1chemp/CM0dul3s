@@ -1,6 +1,5 @@
 # LIBS FACTORY
 <br>
-<br>
 +---- ./libs\_creating/main.c && Makefile ----+<br>
 Usage: (in sudo mode)<br>
 <br># make
