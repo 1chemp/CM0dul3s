@@ -18,4 +18,4 @@ Usage: (in sudo mode)<br>
 <br><br>
 +---- Enjoy ----+
 <br>
-<b>.S.S.: My linux kernel version: 5.13.0</b>
+<b>P.S.S.: My linux kernel version: 5.13.0</b>
