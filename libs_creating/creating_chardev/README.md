@@ -3,7 +3,6 @@
 +---- ./libs_creating/creating_chardev/chardev.c ----+<br>
 <br>
 <img src="image1.jpg"></img><br>
-<br>
 Usage:<br>
 $ sudo su<br>
 # make<br>
