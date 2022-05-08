@@ -11,7 +11,7 @@ $ sudo su<br>
 # cat /dev/hello<br>
 Output will be: I already told you %d times Hello world!<br>
 were %d - number of starts this character device<br>
-+--- Deleting ko ---+<br>
++--- Deleting kernel module ---+<br>
 # rmmod chardev.ko<br>
 # make clean<br>
 <br>
