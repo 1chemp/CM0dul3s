@@ -3,7 +3,6 @@
 +---- ./libs_creating/netlink_communication/kernel_space_prog.c && user_space_prog ----+<br>
 Description: Netlink allows the user to use /sys/socket.h to communicate through the kernel rather than through protocols<br>
 <img src="netlink.jpg"></img><br>
-<br>
 Usage:<br>
 $ sudo su<br>
 # make<br>
