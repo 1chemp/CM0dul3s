@@ -1,6 +1,6 @@
 # LIBS FACTORY
 <br>
-+---- ./libs\_creating/main.c && Makefile ----+<br>
++---- ./libs_creating/task2/main.c && ./libs_creating/task2/Makefile ----+<br>
 <br>
 Usage: (in sudo mode)<br>
 <br># make
