@@ -2,7 +2,7 @@
 <br>
 +---- ./libs_creating/sysfsToKeyboard.c ----+
 <br>
-<img src="/beautiful_image.jpg"></img><br>
+<img src="beautiful_image.jpg"></img><br>
 Description: This program makes kernel module in linux<br>
 <br>
 Usage:<br>
