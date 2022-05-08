@@ -1,6 +1,6 @@
 # LIBS FACTORY
 <br>
-+---- ./libs\_creating/Makefile ----+
++---- ./libs_creating/Makefile ----+
 <br>
 <br>Usage:<br>
 1. sudo su<br>
