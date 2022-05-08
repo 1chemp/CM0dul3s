@@ -5,8 +5,6 @@
 Description: This program makes kernel module in linux<br>
 <br>
 <img src="beautiful_image.jpg"></img><br>
-<br>
-<br>
 Usage:<br>
 $ sudo su<br>
 # make<br>
